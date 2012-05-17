@@ -5,5 +5,5 @@
 
 sample : <http://radiant-water-1540.herokuapp.com/>  
 
-![SS](https://github.com/matuba/water/tree/master/images/SS.png)
+![SS](https://github.com/matuba/water/raw/master/images/SS.png)
 
